@@ -1,0 +1,25 @@
+{
+  "name": "html-test",
+  "version": "0.0.1",
+  "description": "checking for typical html errors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dartess/html-test.git"
+  },
+  "keywords": [
+    "html"
+  ],
+  "author": "Sergey Kozlov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dartess/html-test/issues"
+  },
+  "homepage": "https://github.com/dartess/html-test#readme",
+  "dependencies": {
+    "jsdom": "11.3.0"
+  }
+}
