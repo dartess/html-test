@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/dartess/html-test#readme",
   "dependencies": {
+    "array.prototype.flatten": "^1.2.1",
+    "chalk": "^2.3.2",
     "jsdom": "11.3.0"
   }
 }
