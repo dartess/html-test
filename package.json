@@ -1,6 +1,6 @@
 {
   "name": "html-test",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "description": "checking for typical html errors",
   "main": "index.js",
   "scripts": {
